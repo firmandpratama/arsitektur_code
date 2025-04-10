@@ -1,0 +1,22 @@
+{
+  "id": "/sales_apps",
+  "name": "Sales Apps",
+  "short_name": "Sales Force Application",
+  "description": "Sales Force Application",
+  "icons": [
+    {
+      "src": "/sales_apps/assets/images/sales_apps.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/sales_apps/assets/images/sales_apps.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "https://dev.avaija.com/sales_apps",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#ffffff"
+}
